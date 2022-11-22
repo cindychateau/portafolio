@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+}
+
+.container {
+    width: 970px;
+    outline: 1px solid black;
+    margin: 0 auto;
+}
+
+header {
+    height: 50px;
+    background-color: #f9f9f9;
+}
+
+header h1 {
+    display: inline-block;
+    width: 49%;
+    position:relative;
+    left: 30px;
+    top: 5px;
+}
+
+header h2 {
+    display: inline-block;
+    width: 40%;
+    text-align: right;
+}
+
+.img-photo {
+    width: 380px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 2px solid gray;
+}
+
+.about {
+    display: inline-block;
+}
